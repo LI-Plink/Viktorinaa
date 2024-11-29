@@ -1,6 +1,6 @@
 # Viktorinaa
 Programmas apraksts:
-Funkcijas:
+#Funkcijas:
 uzdot_jautajumu(jautajums, atbildes_varianti, pareiza_atbilde):
 
 Šī funkcija uzdod lietotājam jautājumu, parāda atbilžu variantus un pārbauda, vai lietotāja izvēlētā atbilde ir pareiza.
