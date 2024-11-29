@@ -11,7 +11,7 @@ spelot_viktorinu():
 Pēc tam tiek izdrukāts kopējais punktu skaits, un tiek parādīts ziņojums atkarībā no rezultāta.
 jautat_par_speli():
 
-Piedāvā spēlētājam izvēli spēlēt vēlreiz vai beigt spēli.
+Piedāvā spēlētājam izvēli spēlēt vēlreiz vai beigt spēli. 
 galvena_funkcija():
 
 Uzbūvē galveno spēles ciklu, kur spēlētājs var spēlēt vairākas reizes, ja vēlas.
